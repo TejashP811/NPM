@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Tejash Patel",
+	"description": "NPM!",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
